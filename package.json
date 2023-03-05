@@ -1,0 +1,19 @@
+{
+  "name": "node-lab",
+  "version": "1.0.0",
+  "description": "This is a Node js. based lab project for Application Frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT20617332/Node-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT20617332/Node-lab/issues"
+  },
+  "homepage": "https://github.com/IT20617332/Node-lab#readme"
+}
